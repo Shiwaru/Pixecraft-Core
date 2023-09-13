@@ -1,0 +1,10 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="PixecraftCore:jar">
+    <output-path>$USER_HOME$/OneDrive/Escritorio/sv/plugins</output-path>
+    <root id="archive" name="MegaCore.jar">
+      <element id="module-output" name="PixecraftCore.main" />
+      <element id="file-copy" path="$PROJECT_DIR$/src/main/resources/plugin.yml" />
+      <element id="module-source" name="PixecraftCore.main" />
+    </root>
+  </artifact>
+</component>

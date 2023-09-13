@@ -1,0 +1,16 @@
+name: PixecraftCore
+version: '0.02'
+main: org.shaii.pixecraftcore.Main
+author: "Shaiiwaru"
+commands:
+  heal:
+    description: A command to heal yourself.
+    usage: /heal
+  fly:
+    description: A command for flying.
+    usage: /fly
+permissions:
+  pixecore.commands.heal:
+    description: Permission to use /heal command.
+  pixecore.commands.fly:
+    description: Permission to use /fly command.
